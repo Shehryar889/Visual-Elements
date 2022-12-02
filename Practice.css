@@ -1,0 +1,12 @@
+
+body {
+  background-image: url("PIC4.png");
+}
+#biryani_image{
+  width: 400px;
+  height: 400px;
+  background-image: url("images/BIRYANI.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  float:right;
+}
